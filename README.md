@@ -1,7 +1,7 @@
 ### Hello!! I am Dieyson Gustavo da Silva👋
 
 - 🔭 I am currently looking for my first job opportunity in the field
-- 🌱 I am studying software engineering 3 semester
+- 🌱 I am studying software engineering 4 semester
 - 📫 How to contact me: dieyson3004@gmail.com
 - 😄 Pronouns: Json
 
