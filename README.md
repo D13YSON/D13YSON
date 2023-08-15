@@ -11,4 +11,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13YSON&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/D13YSON/D13YSON/blob/output/github-contribution-grid-snake.svg)
